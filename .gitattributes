@@ -1,0 +1,3 @@
+# GitHub's language bar ignores plain SQL files by default, so this counts them.
+*.sql linguist-detectable
+notebooks/*.ipynb linguist-documentation

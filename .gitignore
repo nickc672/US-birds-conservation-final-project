@@ -1,0 +1,6 @@
+# Holds MySQL password
+mysql.cnf
+
+__pycache__/
+.ipynb_checkpoints/
+.venv/

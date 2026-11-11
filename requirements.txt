@@ -1,0 +1,7 @@
+pymysql
+cryptography
+beautifulsoup4
+requests
+pandas
+matplotlib
+ipykernel
